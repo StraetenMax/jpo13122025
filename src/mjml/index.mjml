@@ -19,6 +19,8 @@
       <mj-class name="T32-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="32px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
+      <mj-class name="T20-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="24px" font-weight="700"/>
+      <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
       <mj-class name="T16-500" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="400"/>
@@ -26,7 +28,7 @@
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
       <mj-button border="2px solid #1F3C90" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#1F3C90"></mj-button>
-      <mj-class name="cT1" color="#1a1a1a"/>
+      <mj-class name="cT1" color="#0D364F"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cT2" color="#999999"/>
       <mj-class name="cTW" color="#ffffff"/>
@@ -44,14 +46,67 @@
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section padding="20px 30px" background-color="#ffffff">
       <mj-column>
-        <mj-text>Bonjour</mj-text>
-        <mj-text>Vous voulez travailler dans le tourisme, l’événementiel ou le monde du voyage ?</mj-text>
-        <mj-text>Venez découvrir le secteur du Tourisme et nos formations :</mj-text>
-        <mj-text>BTS Tourisme (Bac +2) en apprentissage ou initial.</mj-text>
-        <mj-text>Bachelor chargé de développement de produits touristiques (Bac +3) en apprentissage.</mj-text>
-        <mj-text>Mastère manager de l'événementiel et du tourisme (Bac +5) en apprentissage.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Bonjour</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Vous voulez travailler dans le tourisme, l’événementiel ou le monde du voyage ?</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Venez découvrir le secteur du Tourisme et nos formations :</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">BTS Tourisme (Bac +2) en apprentissage ou initial.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Bachelor chargé de développement de produits touristiques (Bac +3) en apprentissage.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Mastère manager de l'événementiel et du tourisme (Bac +5) en apprentissage.</mj-text>
+        <mj-text padding="0" mj-class="T20-700 cT1">Samedi 13 décembre – 9h30 à 13h</mj-text>
+        <mj-text padding="0" mj-class="T18-700 cT1">Ecosup Campus – Tourcoing</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px" background-color="#ffffff">
+      <mj-column padding="20px" border-radius="0px 20px 0px 40px" background-color="#ADD2DB">
+        <mj-text padding="0" mj-class="T16-700 cT1">Au programme&nbsp;:</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Découverte des formations. </mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Ateliers orientation & métiers du tourisme.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Rencontre avec les équipes pédagogiques.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">Visite du campus.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 30px" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">Venez vous projeter dans un secteur en pleine croissance, et identifier le parcours qui vous correspond.</mj-text>
+        <mj-text padding="0" mj-class="T16-400 cT1">À&nbsp;bientôt&nbsp;!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper>
+      <mj-section padding="0px">
+        <mj-column width="450px">
+          <mj-text align="center" padding="0" mj-class="T24-300 cT1">Où nous trouver</mj-text>
+          <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group width="225px">
+          <mj-column width="33.333333%">
+            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+          <mj-column width="33.333333%">
+            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+          <mj-column width="33.333333%">
+            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section mj-class="bg1" padding="0 20px">
+      <mj-column>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-tourisme.fr" target="_blank">www.ecosup-tourisme.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1a1a1a" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400" text-transform="uppercase"><a style="text-decoration:none;color:#b3b3b3" href="https://urlr.me/WS5h6U">59200 Tourcoing</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
