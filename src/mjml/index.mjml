@@ -56,20 +56,26 @@
         <mj-image padding="0" width="600px" src="https://i.ibb.co/tTCRX2sY/affiche-Jpo20252026.png" alt="affiche de la jpo du samedi 13 décembre 2025"/>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px 30px" background-color="#ffffff">
+    <mj-section padding="0 30px" background-color="#fbfbfb">
+      <mj-column>
+        <mj-text align="center" padding="0" padding-top="14px" mj-class="T24-700 cT1" letter-spacing="2px">Explorez les métiers du tourisme &#9992;</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="14px" mj-class="T16-400 cT1" letter-spacing="2px">JPO Ecosup Campus le 13 décembre 2025</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 30px" background-color="#fbfbfb">
       <mj-column>
         <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">Bonjour</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">Vous voulez travailler dans le tourisme, l’événementiel ou le monde du voyage ?</mj-text>
+        <mj-text padding="0" padding-bottom="5px" mj-class="T16-400 cT1">Vous voulez travailler dans le tourisme, l’événementiel ou le monde du voyage ?</mj-text>
         <mj-text padding="0" mj-class="T16-400 cT1">Venez découvrir le secteur du Tourisme et nos formations :</mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; BTS Tourisme (Bac +2) en apprentissage ou initial.</mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Bachelor chargé de développement de produits touristiques (Bac +3) en apprentissage.</mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Mastère manager de l'événementiel et du tourisme (Bac +5) en apprentissage.</mj-text>
+        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; BTS Tourisme <span style="font-style:italic;font-weight:400;">(Bac +2) en apprentissage ou initial.</span></mj-text>
+        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Bachelor chargé de développement de produits touristiques <span style="font-style:italic;font-weight:400;">(Bac +3) en apprentissage.</span></mj-text>
+        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Mastère manager de l'événementiel et du tourisme <span style="font-style:italic;font-weight:400;">(Bac +5) en apprentissage.</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-text padding="0" align="center" mj-class="T20-700 cT1">Samedi&nbsp;13&nbsp;décembre – 9h30&nbsp;à&nbsp;13h</mj-text>
+        <mj-text padding="0" align="center" mj-class="T20-700 cT1">&#128197; Samedi&nbsp;13&nbsp;décembre – 9h30&nbsp;à&nbsp;13h</mj-text>
         <mj-text padding="0" align="center" mj-class="T18-700 cT1">Ecosup Campus – Tourcoing</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px" background-color="#ffffff">
+    <mj-section padding="0 30px" background-color="#fbfbfb">
       <mj-column padding="20px" width="320px" border-radius="0px 20px 0px 40px" background-color="#ADD2DB">
         <mj-text padding="0" mj-class="T16-700 cT1">Au programme&nbsp;:</mj-text>
         <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Découverte des formations. </mj-text>
@@ -78,37 +84,30 @@
         <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Visite du campus.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px 30px" background-color="#ffffff">
+    <mj-section padding="20px 30px" background-color="#fbfbfb">
       <mj-column>
-        <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">Venez vous projeter dans un secteur en pleine croissance, et identifier le parcours qui vous correspond.</mj-text>
+        <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">&#128161; Venez vous projeter dans un secteur en pleine croissance, et identifier le parcours qui vous correspond.</mj-text>
         <mj-text padding="0" mj-class="T16-400 cT1">À&nbsp;bientôt&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper>
-      <mj-section padding="0px">
-        <mj-column width="450px">
-          <mj-text align="center" padding="0" mj-class="T24-300 cT1">Où nous trouver</mj-text>
-          <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section padding="0px">
-        <mj-group width="225px">
-          <mj-column width="33.333333%">
-            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-          <mj-column width="33.333333%">
-            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
-          </mj-column>
-        </mj-group>
-      </mj-section>
-    </mj-wrapper>
-    <mj-section mj-class="bg1" padding="0 20px">
-      <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-tourisme.fr" target="_blank">www.ecosup-tourisme.fr</a></mj-text>
+    <mj-section padding="0 30px" background-color="#fbfbfb">
+      <mj-column width="450px">
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Où nous trouver</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400 cT0">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px" background-color="#fbfbfb">
+      <mj-group width="225px">
+        <mj-column width="33.333333%">
+          <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
       <mj-column width="320px">
