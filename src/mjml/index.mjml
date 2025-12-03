@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 13 décembre 2025 Ecosup Tourisme</mj-title>
+    <mj-title>JPO du 24 mai 2025 Ecosup Santé</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -15,79 +15,30 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
-      <mj-class name="T32-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="32px" font-weight="900"/>
-      <mj-class name="T32-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="32px" font-weight="300"/>
+      <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
-      <mj-class name="T20-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="24px" font-weight="700"/>
-      <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
       <mj-class name="T16-500" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="400"/>
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #1F3C90" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#1F3C90"></mj-button>
-      <mj-class name="cT1" color="#0D364F"/>
+      <mj-button border="2px solid #2386C8" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2386c8"></mj-button>
+      <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="cT2" color="#999999"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="bgW" background-color="#ffffff"/>
-      <mj-class name="c0" color="#1F3C90"/>
-      <mj-class name="bg0" background-color="#1F3C90"/>
-      <mj-class name="c1" color="#20274F"/>
-      <mj-class name="bg1" background-color="#20274F"/>
+      <mj-class name="c0" color="#2386c8"/>
+      <mj-class name="bg0" background-color="#2386c8"/>
+      <mj-class name="c1" color="#114364"/>
+      <mj-class name="bg1" background-color="#114364"/>
     </mj-attributes>
-    <mj-breakpoint width="420px"></mj-breakpoint>
+    <mj-breakpoint width="460px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f2f2f2" width="600px">
     <mj-section padding="0">
       <mj-column>
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section mj-class="bg0" padding="10px 20px">
-      <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="logo Ecosup Tourisme"/>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ecebf3" padding="0">
-      <mj-column>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/tTCRX2sY/affiche-Jpo20252026.png" alt="affiche de la jpo du samedi 13 décembre 2025"/>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0 30px" background-color="#fbfbfb">
-      <mj-column>
-        <mj-text align="center" padding="0" padding-top="14px" mj-class="T24-700 cT1" letter-spacing="2px">Explorez les métiers du tourisme &#128748;</mj-text>
-        <mj-text align="center" padding="0" padding-bottom="14px" mj-class="T16-400 cT1" letter-spacing="2px">JPO Ecosup Campus le 13 décembre 2025</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px 30px" background-color="#fbfbfb">
-      <mj-column>
-        <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">Bonjour</mj-text>
-        <mj-text padding="0" padding-bottom="5px" mj-class="T16-400 cT1">Vous voulez travailler dans le tourisme, l’événementiel ou le monde du voyage ?</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">Venez découvrir le secteur du Tourisme et nos formations :</mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; BTS Tourisme <span style="font-style:italic;font-weight:400;">(Bac +2) en apprentissage ou initial.</span></mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Bachelor chargé de développement de produits touristiques <span style="font-style:italic;font-weight:400;">(Bac +3) en apprentissage.</span></mj-text>
-        <mj-text padding="0" padding-left="15px" mj-class="T16-700 cT1">&#9679; Mastère manager de l'événementiel et du tourisme <span style="font-style:italic;font-weight:400;">(Bac +5) en apprentissage.</span></mj-text>
-        <mj-spacer height="20px"/>
-        <mj-text padding="0" align="center" mj-class="T20-700 cT1">&#128197; Samedi&nbsp;13&nbsp;décembre – 9h30&nbsp;à&nbsp;13h</mj-text>
-        <mj-text padding="0" align="center" mj-class="T18-700 cT1">&#128205; Ecosup Campus – Tourcoing</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0 30px" background-color="#fbfbfb">
-      <mj-column padding="20px" width="320px" border-radius="0px 20px 0px 40px" background-color="#ADD2DB">
-        <mj-text padding="0" mj-class="T16-700 cT1">Au programme&nbsp;:</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Découverte des formations. </mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Ateliers orientation & métiers du tourisme.</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Rencontre avec les équipes pédagogiques.</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">&#10003; Visite du campus.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px 30px" background-color="#fbfbfb">
-      <mj-column>
-        <mj-text padding="0" padding-bottom="20px" mj-class="T16-400 cT1">&#128161; Venez vous projeter dans un secteur en pleine croissance, et identifier le parcours qui vous correspond.</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT1">À&nbsp;bientôt&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 30px" background-color="#fbfbfb">
