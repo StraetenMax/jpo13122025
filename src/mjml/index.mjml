@@ -46,6 +46,16 @@
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
+    <mj-section mj-class="bg0" padding="10px 20px">
+      <mj-column>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="logo Ecosup Tourisme"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecebf3" padding="0">
+      <mj-column>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/tTCRX2sY/affiche-Jpo20252026.png" alt="affiche de la jpo du samedi 13 décembre 2025"/>
+      </mj-column>
+    </mj-section>
     <mj-section padding="20px 30px" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0" mj-class="T16-400 cT1">Bonjour</mj-text>
