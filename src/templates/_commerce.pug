@@ -1,7 +1,7 @@
 mjml
     //- Head
     mj-head
-        mj-title JPO du 24 mai 2025 Ecosup Commerce
+        mj-title JPO du samedi 13 décembre 2025 Ecosup Commerce
         mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap')
         mj-font(name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css")/
         mj-raw.
@@ -39,17 +39,14 @@ mjml
         //- content
         block content
         //- bloc header
-        block header
+            block header
             include ../includes/commerce/_header
-        //- bloc formations
-        block formations
-            include ../includes/commerce/_formations
-        //-bloc article
-        block article
-            include ../includes/commerce/_article
+        //- bloc core
+            block core
+            include ../includes/commerce/_core
         //- bloc information
         block itineraire
-            include ../includes/commerce/_itineraire
+            include ../includes/_itineraire
         //- bloc footer
         block footer
             include ../includes/_footer

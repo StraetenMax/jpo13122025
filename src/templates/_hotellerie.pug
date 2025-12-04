@@ -1,7 +1,7 @@
 mjml
     //- Head
     mj-head
-        mj-title JPO du 24 mai 2025 Ecosup Hôtellerie
+        mj-title JPO du samedi 13 décembre 2025 Ecosup Hôtellerie
         mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap')
         mj-font(name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css")/
         mj-raw.
@@ -39,17 +39,14 @@ mjml
         //- content
         block content
         //- bloc header
-        block header
+            block header
             include ../includes/hotellerie/_header
-        //- bloc formation
-        block formations
-            include ../includes/hotellerie/_formations
-        //- bloc vie du campus
-        block article
-            include ../includes/hotellerie/_article
+        //- bloc core
+            block core
+            include ../includes/hotellerie/_core
         //- bloc itineraire
         block itineraire
-            include ../includes/hotellerie/_itineraire
+            include ../includes/_itineraire
         //- bloc footer
         block footer
             include ../includes/_footer
