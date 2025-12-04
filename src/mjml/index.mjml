@@ -24,14 +24,14 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #2386C8" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2386c8"></mj-button>
+      <mj-button border="2px solid #2DAAE1" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2DAAE1"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="c0" color="#2386c8"/>
-      <mj-class name="bg0" background-color="#2386c8"/>
-      <mj-class name="c1" color="#114364"/>
-      <mj-class name="bg1" background-color="#114364"/>
+      <mj-class name="c0" color="#2daae1"/>
+      <mj-class name="bg0" background-color="#2daae1"/>
+      <mj-class name="c1" color="#055063"/>
+      <mj-class name="bg1" background-color="#055063"/>
     </mj-attributes>
     <mj-breakpoint width="460px"></mj-breakpoint>
   </mj-head>
@@ -39,6 +39,16 @@
     <mj-section padding="0">
       <mj-column>
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bg0" padding="10px 20px">
+      <mj-column>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/vs1kWDh/logo-Sante-Blanc.png" alt="logo Ecosup Santé"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecebf3" padding="0">
+      <mj-column>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/tTCRX2sY/affiche-Jpo20252026.png" alt="affiche de la jpo du samedi 13 décembre 2025"/>
       </mj-column>
     </mj-section>
     <mj-section padding="0 30px" background-color="#fbfbfb">
