@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du samedi 13 décembre 2025 Ecosup Santé</mj-title>
+    <mj-title>JPO du samedi 13 décembre 2025 Ecosup Commerce</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -24,14 +24,14 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
-      <mj-button border="2px solid #2DAAE1" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#2DAAE1"></mj-button>
+      <mj-button border="2px solid #EC6608" border-radius="5px" background-color="transparent" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="17px" font-weight="700" color="#EC6608"></mj-button>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
       <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="c0" color="#2daae1"/>
-      <mj-class name="bg0" background-color="#2daae1"/>
-      <mj-class name="c1" color="#055063"/>
-      <mj-class name="bg1" background-color="#055063"/>
+      <mj-class name="c0" color="#EC6608"/>
+      <mj-class name="bg0" background-color="#EC6608"/>
+      <mj-class name="c1" color="#AA3E17"/>
+      <mj-class name="bg1" background-color="#AA3E17"/>
     </mj-attributes>
     <mj-breakpoint width="460px"></mj-breakpoint>
   </mj-head>
@@ -43,12 +43,29 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/vs1kWDh/logo-Sante-Blanc.png" alt="logo Ecosup Santé"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/wwWg6s3/logo-Commerce-Blanc.png" alt="logo Ecosup Commerce"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ecebf3" padding="0">
+    <mj-section padding="0">
       <mj-column>
         <mj-image padding="0" width="600px" src="https://i.ibb.co/tTCRX2sY/affiche-Jpo20252026.png" alt="affiche de la jpo du samedi 13 décembre 2025"/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Bonjour,</mj-text>
+        <mj-text>Vous souhaitez développer vos compétences en management, commerce et relation client ?</mj-text>
+        <mj-text>Voici les formations proposées au sein de que nous pôle Commerce :</mj-text>
+        <mj-text>BTS Management Commercial Opérationnel (Bac +2)</mj-text>
+        <mj-text>Bachelor Responsable du Développement Commercial (Bac +3).</mj-text>
+        <mj-text>📅 Samedi 13 décembre – 9h30 à 13h</mj-text>
+        <mj-text>📍 Ecosup Campus – Tourcoing</mj-text>
+        <mj-text>Au programme :</mj-text>
+        <mj-text> ✔ Présentation des formations</mj-text>
+        <mj-text> ✔ Échanges avec les responsables pédagogiques</mj-text>
+        <mj-text> ✔ Conseils d’orientation</mj-text>
+        <mj-text> ✔ Visite du campus</mj-text>
+        <mj-text>💡 Profitez de cette JPO pour choisir quelle formation correspond à votre projet professionnel.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 30px" background-color="#fbfbfb">
